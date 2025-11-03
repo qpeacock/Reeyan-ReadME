@@ -1,5 +1,5 @@
 # Reeyan-ReadME
-ReadME for Reeyan and Sebastion's Project 9
+ReadME for Reeyan and Sebaston's Project 9
 
 **What the code does**
 
